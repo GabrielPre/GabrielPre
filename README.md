@@ -6,8 +6,11 @@ I am an engineering student in Big Data and Machine Learning at Efrei Paris
 - 💬 Ask me about anything
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug
 <br>
+
 ## Connect with me
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-precigout/)
+
 <!--
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://56faisal.medium.com/)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal)
